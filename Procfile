@@ -1,1 +1,1 @@
-web:gunicorn fakenewsdetection.wsgi
+web: gunicorn app:app
